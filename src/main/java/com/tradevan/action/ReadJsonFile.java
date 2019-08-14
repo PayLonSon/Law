@@ -7,18 +7,11 @@ import java.io.FileOutputStream;
 import java.io.FileReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.io.OutputStreamWriter;
 import java.io.PrintWriter;
 import java.io.Reader;
-import java.io.UnsupportedEncodingException;
-
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
-import org.kopitubruk.util.json.JSONUtil;
-import org.w3c.dom.Document;
-
-import java.io.BufferedWriter;
 
 public class ReadJsonFile {
 
